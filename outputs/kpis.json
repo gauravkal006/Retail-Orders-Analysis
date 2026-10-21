@@ -1,0 +1,22 @@
+{
+  "order_lines": 9994,
+  "orders": 9994,
+  "products": 1862,
+  "date_from": "2022-01-01",
+  "date_to": "2023-12-31",
+  "total_sales": 2215858.7,
+  "total_profit": 205168.7,
+  "total_discount": 80331.3,
+  "profit_margin_pct": 9.26,
+  "avg_order_value": 221.72,
+  "sales_2022": 1095590.2,
+  "sales_2023": 1120268.5,
+  "sales_growth_pct": 2.25,
+  "profit_2022": 101620.2,
+  "profit_2023": 103548.5,
+  "profit_growth_pct": 1.9,
+  "top_product": "TEC-CO-10004722",
+  "top_product_sales": 59514.0,
+  "top_region_by_profit": "West",
+  "missing_ship_mode": 6
+}

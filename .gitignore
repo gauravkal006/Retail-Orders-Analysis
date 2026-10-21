@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Office lock files
+~$*
+
+# Data: download orders.csv from Kaggle into data/raw/ (see README)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+
+# Generated SQLite database (rebuilt by src/pipeline.py)
+data/*.db
+*.sqlite
